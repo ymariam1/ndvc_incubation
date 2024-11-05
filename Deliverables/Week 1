@@ -1,0 +1,7 @@
+Your deliverable for week 1 is to: Build an extension that either injects text into a google doc, reads text from a google doc, or both.
+Upload the code in this fle.
+Here are some helpful links:
+https://github.com/Amaimersion/google-docs-utils/issues/10
+https://www.youtube.com/watch?v=E5ip2IC9b08
+https://github.com/ken107/read-aloud/blob/master/js/content/google-doc.js#L338
+https://stackoverflow.com/questions/75019646/get-selected-text
