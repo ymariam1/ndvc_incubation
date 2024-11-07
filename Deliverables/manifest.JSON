@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Yohannes' Injector",
+    "version": "1.0",
+    "permissions": [
+        "identity",
+        "activeTab"
+    ],
+    "oauth2": {
+      "client_id": "270338917724-4pshn76kf5i5pm18404guor9akod1vl4.apps.googleusercontent.com",
+      "scopes": ["https://www.googleapis.com/auth/documents"]
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
